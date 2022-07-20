@@ -5,3 +5,4 @@ En este documento serán reportados los casos de prueba del sitio web [El Sótan
 
 [Ver reporte](https://drive.google.com/drive/folders/1AN-x5_YIl0BSOIYRWKW02XSEP1w7ZzIJ?usp=sharing)
 
+![image](https://user-images.githubusercontent.com/32878468/179872304-127a87fc-ff9b-4496-bc44-b3673b640d10.png)
